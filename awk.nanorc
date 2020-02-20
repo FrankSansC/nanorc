@@ -1,4 +1,4 @@
-syntax "AWK" "\.awk$"
+syntax "awk" "\.awk$"
 header "^#!.*bin/(env +)?awk( |$)"
 magic "awk script"
 comment "#"

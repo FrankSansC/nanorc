@@ -1,6 +1,6 @@
 ## Syntax highlighting for OCaml.
 
-syntax "OCaml" "\.mli?$"
+syntax "ocaml" "\.mli?$"
 magic "OCaml"
 comment "(*|*)"
 

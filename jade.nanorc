@@ -1,4 +1,4 @@
-syntax "Jade" "\.jade$"
+syntax "jade" "\.jade$"
 # Elements
 color yellow "^\s*([a-z0-9]+)"
 # Main elements

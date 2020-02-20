@@ -1,6 +1,6 @@
 ## Here is an example for ebuilds/eclasses
 ##
-syntax "Ebuild" "\.e(build|class)$"
+syntax "ebuild" "\.e(build|class)$"
 comment "#"
 
 ## All the standard portage functions

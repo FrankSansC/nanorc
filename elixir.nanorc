@@ -1,6 +1,6 @@
 ## Here is an example for Elixir.
 ##
-syntax "Elixir" "\.ex$" "\.exs$"
+syntax "elixir" "\.ex$" "\.exs$"
 header "^#!.*/(env +)?elixir( |$)"
 
 ## reserved words

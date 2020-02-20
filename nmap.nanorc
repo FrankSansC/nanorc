@@ -1,4 +1,4 @@
-syntax "NMAP" "\.nmap$"
+syntax "nmap" "\.nmap$"
 
 color yellow "^Nmap scan report for.*"
 color brightwhite "^Not shown.*"

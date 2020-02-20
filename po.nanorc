@@ -1,4 +1,4 @@
-syntax "PO" "\.pot?$"
+syntax "po" "\.pot?$"
 comment "#"
 
 color cyan  "\<(msgid|msgstr)\>"

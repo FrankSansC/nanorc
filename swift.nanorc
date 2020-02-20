@@ -2,7 +2,7 @@
 # Swift syntax highlighting for Nano. v.1.1
 ##############################################################################
 
-syntax "Swift" "\.swift$"
+syntax "swift" "\.swift$"
 
 # Default
 color white ".+"

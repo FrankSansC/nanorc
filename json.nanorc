@@ -1,4 +1,4 @@
-syntax "JSON" "\.json$"
+syntax "json" "\.json$"
 header "^\{$"
 # You can't add a comment to JSON.
 comment ""

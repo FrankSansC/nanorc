@@ -1,6 +1,6 @@
 ## Here is an example for Perl.
 ##
-syntax "Perl" "\.p[lm]$"
+syntax "perl" "\.p[lm]$"
 header "^#!.*/(env +)?perl( |$)"
 magic "Perl script"
 comment "#"

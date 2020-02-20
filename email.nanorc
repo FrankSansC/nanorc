@@ -1,4 +1,4 @@
-syntax "Email" "\.em(ai)?l$"
+syntax "email" "\.em(ai)?l$"
 
 color magenta "^>([^>].*|$)"
 color blue "^> ?>([^>].*|$)"

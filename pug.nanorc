@@ -1,4 +1,4 @@
-syntax "Pug" "\.pug$"
+syntax "pug" "\.pug$"
 # Elements
 color yellow "^\s*([a-z0-9]+)"
 # Main elements

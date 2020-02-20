@@ -1,4 +1,4 @@
-syntax "F#" "\.fs$" "\.fsx$"
+syntax "fsharp" "\.fs$" "\.fsx$"
 
 # Type and Module Definitions
 color brightgreen  "type +[A-Za-z0-9]+ *((:) +[A-Za-z0-9.]+)?"
